@@ -399,8 +399,8 @@ html {
 .footer {
     background-color: #888888;
 }
-.hamburger{
-    display:none;
+.hamburger {
+    display: none;
 }
 @media(max-width:768px) {
 
