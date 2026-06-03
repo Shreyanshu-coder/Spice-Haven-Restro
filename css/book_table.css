@@ -290,6 +290,11 @@ html {
 .choose_time {
     padding: 80px 20px;
 }
+.slot-btn.selected{
+    background-color: #c0392b;
+    color: white;
+    border-color: #c0392b;
+}
 
 .slot-container {
     max-width: 1000px;
